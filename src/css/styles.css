@@ -1,0 +1,38 @@
+/* ===Gnerell Settings===*/
+
+h1{
+    text-align: center;
+
+}
+/*===Header-Banner===*/
+
+.header-banner {
+    width: 100%;
+    height: auto;
+    max-height: 400px;
+}
+
+/* == Rental-Part===*/
+/*=== Grid-System-Rental===*/
+
+.rental-grid-system {
+    margin-top: 40px;
+    text-align: center;
+}
+
+.row-grid-rental{
+    margin-top: 40px;
+}
+
+.img-grid-rental {
+    height: 400px;
+    width: 753px;
+}
+
+/*Rental Info box*/
+
+.rental-infobox {
+    margin: 80px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
